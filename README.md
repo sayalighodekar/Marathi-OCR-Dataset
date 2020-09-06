@@ -8,5 +8,5 @@ We created this dataset using [pytesseract](https://pypi.org/project/pytesseract
 
 # Usage
 The file `images.zip ` contains the Marathi words images and `labels.txt` contains the corresponding text. 
-This dataset can be leveraged to improve the existing OCR systems, see [Train Tesseract 4.0](https://tesseract-ocr.github.io/tessdoc/TrainingTesseract-4.00). More widely, it can be used to train hybrid CNN-LSTM models from scratch, see (https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5). 
+This dataset can be leveraged to improve the existing OCR systems, see [Train Tesseract 4.0](https://tesseract-ocr.github.io/tessdoc/TrainingTesseract-4.00). More widely, it can be used to train hybrid CNN-LSTM models from scratch, see [Text Recognition System using TensorFlow](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5). 
  
